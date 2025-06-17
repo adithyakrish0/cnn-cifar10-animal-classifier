@@ -42,6 +42,20 @@ Example output:
 
 ![Untitled](https://github.com/user-attachments/assets/acd663dc-17ca-4fbb-aa6b-efbe8071c410)
 
+![image](https://github.com/user-attachments/assets/1f3f179d-b5ed-4096-875a-4c6872bff67f)
+
+![Untitled](https://github.com/user-attachments/assets/f2ca3348-f2f8-45ec-8a71-eccf7ccecabb)
+
+![image](https://github.com/user-attachments/assets/6efa3e9b-56b1-4c5c-9dd6-f2b4213a08ed)
+
+![Untitled](https://github.com/user-attachments/assets/eeee2a7d-ca53-41bb-b04f-e5012663c722)
+
+![image](https://github.com/user-attachments/assets/07fd4e9f-9316-45f2-97c0-44fc77e658a3)
+
+![image](https://github.com/user-attachments/assets/e2c66a1b-51f9-46c2-8d18-4ef7b1aaaeb5)
+![Untitled](https://github.com/user-attachments/assets/553740ae-c86d-48d4-a3fd-28a55e2616c8)
+
+
 
 ## 🛠️ Technologies Used
 
