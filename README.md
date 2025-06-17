@@ -74,21 +74,5 @@ Example output:
 
 ---
 
-## 📸 Sample Predictions
-
-| Image | Predicted |
-|-------|-----------|
-| ![dog](example_images/dog.jpg) | Dog |
-| ![bird](example_images/bird.jpg) | Bird |
-
-> You can replace with your own images to test.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 
