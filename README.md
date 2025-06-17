@@ -37,6 +37,7 @@ Trained with:
 You can upload your own image of an animal (bird, cat, deer, dog, or horse) and the model will predict its species with confidence score.
 
 Example output:
+
 ![image](https://github.com/user-attachments/assets/d1bdf9a4-97de-4ca0-b1cd-45d0b77babcc)
 
 ![Untitled](https://github.com/user-attachments/assets/acd663dc-17ca-4fbb-aa6b-efbe8071c410)
